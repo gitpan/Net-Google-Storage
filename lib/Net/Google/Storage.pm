@@ -3,7 +3,7 @@ use warnings;
 use autodie;
 package Net::Google::Storage;
 {
-  $Net::Google::Storage::VERSION = 'v0.1.0';
+  $Net::Google::Storage::VERSION = '0.1.1';
 }
 
 # ABSTRACT: Access the Google Storage JSON API (currently experimental).
@@ -233,7 +233,7 @@ Net::Google::Storage - Access the Google Storage JSON API (currently experimenta
 
 =head1 VERSION
 
-version v0.1.0
+version 0.1.1
 
 =head1 SYNOPSIS
 

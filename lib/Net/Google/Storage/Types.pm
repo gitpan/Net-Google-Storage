@@ -1,6 +1,6 @@
 package Net::Google::Storage::Types;
 {
-  $Net::Google::Storage::Types::VERSION = 'v0.1.0';
+  $Net::Google::Storage::Types::VERSION = '0.1.1';
 }
 
 # ABSTRACT: Types library for L<Net::Google::Storage>. Pretty boring really.
@@ -19,7 +19,7 @@ Net::Google::Storage::Types - Types library for L<Net::Google::Storage>. Pretty 
 
 =head1 VERSION
 
-version v0.1.0
+version 0.1.1
 
 =head1 AUTHOR
 

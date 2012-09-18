@@ -10,6 +10,7 @@ lib/Net/Google/Storage/Agent.pm
 lib/Net/Google/Storage/Bucket.pm
 lib/Net/Google/Storage/Object.pm
 lib/Net/Google/Storage/Types.pm
+t/basic.t
 t/lib/Net/Google/Storage/Test.pm
 t/live_prerelease.t
 t/release-pod-coverage.t

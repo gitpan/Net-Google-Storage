@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Net::Google::Storage::Bucket;
 {
-  $Net::Google::Storage::Bucket::VERSION = 'v0.1.0';
+  $Net::Google::Storage::Bucket::VERSION = '0.1.1';
 }
 
 # ABSTRACT: Interface for a Google Storage Bucket
@@ -64,7 +64,7 @@ Net::Google::Storage::Bucket - Interface for a Google Storage Bucket
 
 =head1 VERSION
 
-version v0.1.0
+version 0.1.1
 
 =head1 DESCRIPTION
 
