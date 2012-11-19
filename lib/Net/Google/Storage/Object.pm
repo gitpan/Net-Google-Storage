@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Net::Google::Storage::Object;
 {
-  $Net::Google::Storage::Object::VERSION = '0.1.1';
+  $Net::Google::Storage::Object::VERSION = '0.1.2';
 }
 
 # ABSTRACT: Interface for a Google Storage Object
@@ -87,7 +87,7 @@ Net::Google::Storage::Object - Interface for a Google Storage Object
 
 =head1 VERSION
 
-version 0.1.1
+version 0.1.2
 
 =head1 DESCRIPTION
 

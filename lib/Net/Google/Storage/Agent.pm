@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Net::Google::Storage::Agent;
 {
-  $Net::Google::Storage::Agent::VERSION = '0.1.1';
+  $Net::Google::Storage::Agent::VERSION = '0.1.2';
 }
 
 # ABSTRACT: Access the Google Storage JSON API (currently experimental).
@@ -197,7 +197,7 @@ Net::Google::Storage::Agent - Access the Google Storage JSON API (currently expe
 
 =head1 VERSION
 
-version 0.1.1
+version 0.1.2
 
 =head1 DESCRIPTION
 
